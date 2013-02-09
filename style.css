@@ -6,7 +6,7 @@
 a {
   outline: none;
   text-decoration:none;
-  color: #DA4930;
+  color: #0431B4;
 }
 
 body {
@@ -14,7 +14,7 @@ body {
   background-image: url(images/left.png);
   background-repeat: no-repeat;
   background-color: #BE81F7;
-  color: #BE81F7;
+  color: #58D3F7;
   font-family: "Days One", sans-serif;
 }
 
